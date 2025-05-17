@@ -1,0 +1,25 @@
+body{
+
+}
+
+#box1 {
+  border: 5px solid;
+  width: 250px;
+  height: 250px;
+  font-size: 22px;
+  background: greenyellow;
+  padding: 10px;
+  margin-top:50px;
+  margin-left : 500px;
+  margin-bottom: 50px;
+}
+#box2 {
+  border: 5px solid;
+  width: 250px;
+  height: 250px;
+  font-size: 22px;
+  background: burlywood;
+  padding: 10px;
+  margin : 20px;
+  margin-left: 50%;
+}

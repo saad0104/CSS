@@ -1,0 +1,25 @@
+h1{
+    border-top-style: dotted;
+    border-left-style: double;
+    border-left-width : 10px;
+    border-left-color : teal;
+}
+
+#p1 {
+  border-style: solid;
+  border-width: 5px;
+  border-color:gold;
+  border-radius:10px;
+  padding : 5px;
+
+
+}
+#p2 {
+  border-style: dotted;
+}
+#p3 {
+  border-style: dashed;
+}
+#p4 {
+  border-style: inset;
+}

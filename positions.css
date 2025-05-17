@@ -1,0 +1,43 @@
+#box1 {
+  border: 1px solid;
+  height: 300px;
+  width: 300px;
+  background-color: skyblue;
+
+  position: fixed;
+  top: 10px;
+  right : 0px;
+}
+
+#box4 {
+  border: 1px solid;
+  height: 200px;
+  width: 200px;
+  background-color: greenyellow;
+  position: relative;
+  top : 0px;
+  bottom : 0px;
+
+}
+
+#box2 {
+  border: 1px solid;
+  height: 100px;
+  width: 100px;
+  background-color: tomato;
+  position: static;
+
+}
+#box3 {
+  border: 1px solid;
+  height: 200px;
+  width: 200px;
+  background-color: grey;
+  position: sticky;
+  top : 0px;
+  bottom : 0px;
+  left : 100px;
+
+}
+
+

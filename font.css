@@ -1,0 +1,17 @@
+body {
+  background-color: black;
+}
+h1 {
+  color: white;
+  font-family: "press start 2p", "consolas", sans-serif;
+}
+p {
+  /* background-color: gray; */
+  color: white;
+  font-family: "consolas", sans-serif;
+  /* if consolas is not available for any web browser, sans serif will be shown */
+  font-style: italic;
+  font-weight: bold;
+  font-size: 18px;
+  text-decoration: cyan wavy underline;
+}
